@@ -13,4 +13,6 @@ Description: Test your JavaScript knowledge with this quiz. Users have 75 second
 
 - When user clicks submit it goes to a new page with all high scores shown as a list and gives you an option to either go back or clear high scores.
 
-Link to Deployed Application: 
+Link to Deployed Application: https://pwiernasz.github.io/code-quiz/
+
+![image](https://user-images.githubusercontent.com/100784603/165015293-00d025fe-c4b5-4a8b-9ff5-4a80ac71a247.png)
